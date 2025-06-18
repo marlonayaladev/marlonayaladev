@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">&lt;Founder: New Code/&gt;</h2>
+<h2 align="center">&lt;Marlon Ayala/&gt;</h2>
 
 ###
 
