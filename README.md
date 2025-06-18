@@ -45,7 +45,7 @@
 
 
 
-<p align="left">🌍 Soy de Lima, Perú<br>🎓 Estudiante de Ingeniería de Software<br>⚡ En formación como desarrollador Full-Stack, con proyectos propios. <br>🎯 Creando proyectos para mejorar mis habilidades</p>
+<p align="left">🌍 Lima, Perú<br>🎓 Estudiante de Ingeniería de Software<br>⚡ En formación como desarrollador Full-Stack, con proyectos propios. <br>🎯 Creando proyectos para mejorar mis habilidades</p>
 
 ###
 
