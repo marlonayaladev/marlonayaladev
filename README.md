@@ -5,14 +5,12 @@
 
 ###
 
-<h2 align="center">&lt;Nueva Idea, Nuevo Código!/&gt;</h2>
+<h2 align="center">&lt;Founder: New Code/&gt;</h2>
 
 ###
 
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspirando+a+Full-Stack" alt="Typing SVG" /></a>
-<div align="center">
+
   
   <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
     <img src="https://i.imgur.com/Ft8u735.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
