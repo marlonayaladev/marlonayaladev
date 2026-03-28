@@ -22,11 +22,11 @@
 <h3 align="left">📫 Contacto</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/suianehenrichs" target="_blank">
+  <a href="https://www.linkedin.com/in/marlon-ayala/" target="_blank">
     <img src="https://i.imgur.com/Ft8u735.png" height="30" alt="LinkedIn" />
   </a>
   <img width="10" />
-  <a href="mailto:suianehenrichs@gmail.com">
+  <a href="mailto:iammarlonayala@gmail.com">
     <img src="https://i.imgur.com/XAy7rzU.png" height="30" alt="E-mail" />
   </a>
 </p>
