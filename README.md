@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🌍 Lima, Perú<br> <br> 🔒 𝗦𝗼𝗯𝗿𝗲 𝗺𝗶𝘀 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝗰𝗶𝗼𝗻𝗲𝘀: Mi gráfica de actividad refleja mi trabajo diario en desarrollo de software, pero la mayor parte de mis repositorios son privados para proteger la confidencialidad de mis clientes y proyectos en los que me incorporan<br><br> 🎓 Estudiante de Ingeniería de Software<br><br>⚡ Actualmente trabajo como Desarrollador de Sistemas y Analista de Datos <br><br>🏆 3x Hackathon Winner</p>
+<p align="left">🌍 Lima, Perú<br> <br> 🔒 𝗦𝗼𝗯𝗿𝗲 𝗺𝗶𝘀 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝗰𝗶𝗼𝗻𝗲𝘀: Mi gráfica de actividad refleja mi trabajo diario en desarrollo de software, pero la mayor parte de mis repositorios son privados para proteger la confidencialidad de mis clientes y proyectos en los que me incorporan<br><br> 🎓 Estudiante de Ingeniería de Software<br><br>⚡ Actualmente trabajo como Desarrollador de Sistemas (𝗖++) y Analista de Datos (𝗢𝗿𝗮𝗰𝗹𝗲) <br><br>🏆 3x Hackathon Winner</p>
 
 ###
 
