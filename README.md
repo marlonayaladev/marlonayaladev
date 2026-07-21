@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🌍 Lima, Perú<br>🎓 Estudiante de Ingeniería de Software<br>⚡ En formación como desarrollador Full-Stack, con proyectos propios.<br>🎯 Creando proyectos para mejorar mis habilidades</p>
+<p align="left">🌍 Lima, Perú<br> 🔒 Sobre mis contribuciones: Mi gráfica de actividad refleja mi trabajo diario en desarrollo de software, pero la mayor parte de mis repositorios son privados para proteger la confidencialidad de mis clientes <br> 🎓 Estudiante de Ingeniería de Software<br>⚡ En formación como desarrollador Full-Stack, con proyectos propios.<br>🎯 Creando proyectos para mejorar mis habilidades</p>
 
 ###
 
