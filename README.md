@@ -1,3 +1,5 @@
+<img src="fastfetch.svg" width="100%" alt="Marlon Ayala - Desarrollador de Sistemas y Analista de Datos" />
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=20&section=header)
 
 <h2 align="center">&lt;Marlon Ayala/&gt;</h2>
