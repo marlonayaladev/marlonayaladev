@@ -1,4 +1,6 @@
-<img src="fastfetch.svg" width="100%" alt="Marlon Ayala - Desarrollador de Sistemas y Analista de Datos" />
+
+
+<img src="https://i.imgur.com/XAy7rzU.png" height="30" alt="E-mail" />
 
 <h2 align="center">&lt;Marlon Ayala/&gt;</h2>
 
