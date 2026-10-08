@@ -1,6 +1,6 @@
 
 
-<img src="https://i.imgur.com/XAy7rzU.png" height="30" alt="E-mail" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=20&section=footer)
 
 <h2 align="center">&lt;Marlon Ayala/&gt;</h2>
 
